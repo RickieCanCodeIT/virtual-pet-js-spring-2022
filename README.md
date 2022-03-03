@@ -16,6 +16,7 @@ To get started `clone` this repository and run `npm install` . Be sure you have 
 Not wanting to clone, but want to practice the set up of the environment yourself? The following steps will allow you to set up this project from scratch
 
 - `mkdir virtual-pet-js`
+- `cd virtual-pet-js`
 - `npm init -y` to set up a `package.json` file and accept the default settings
 - `npm i --save-dev parcel jest babel-jest @babel/core @babel/preset-env` to install Parcel, Jest and Babel
 - create a `.babelrc` file and add the following snippet to this file:
