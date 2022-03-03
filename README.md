@@ -9,7 +9,7 @@ This project demonstrates how to mimic a modular environment with testing capabi
 
 ## Getting Started
 
-To get started `clone` this repository and run `npm install` . Be sure you have `node` already installed on your machine. You can check this in your terminal by running the command `node -v`
+To get started `clone` this repository, cd into it, and run `npm install` . Be sure you have `node` already installed on your machine. You can check this in your terminal by running the command `node -v`
 
 ## Want to set up this project from scratch?
 
